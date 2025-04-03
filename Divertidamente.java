@@ -6,6 +6,7 @@ public class Divertidamente {
     int emocaoAlegria = 0, emocaoTristeza = 0;
 
     Scanner scanner = new Scanner(System.in);
+
     System.out.println("\nOlá, Riley.\nQuantas amizades você fez na nova cidade?");
 
     int qtdeAmizade = scanner.nextInt();
